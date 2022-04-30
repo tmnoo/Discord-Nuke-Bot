@@ -7,7 +7,7 @@ A Discord Nuke Bot made in python (Look README.md)
 
 (3) then open the .bat file. (its installing colorama or other things, if you still don't trust me then just edit the .bat file with notepad++) 
 
-(4) then run the .exe file. (its a .exe file because if it wasn't people will steal my sourche code and claim it as their own
+(4) then run the python file with the python cmd or just open your cmd "path where you saved it" python main.py file. (i used pyarmor because if it wasn't people will steal my sourche code and claim it as their own)
 
 (5) it will look like this (screenshot)
 
@@ -20,4 +20,6 @@ A Discord Nuke Bot made in python (Look README.md)
 (7) Then juse type ,NUKE to nuke the server (Make sure it CAPITAL) and ,STOP to stop nuking. (CAPITAL)
 
 Note: it will give everyone in the server admin perms lol.
+
+#PYTHON NEED TO BE INSTALLED TO RUN THIS
 
